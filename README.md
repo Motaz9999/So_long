@@ -1,8 +1,8 @@
 # So_long - 42 Amman Project
 
-![Score](https://img.shields.io/badge/Score-124%2F125-success?style=for-the-badge&logo=42)
+![Score](https://img.shields.io/badge/Score-125%2F100-success?style=for-the-badge&logo=42)
 ![Language](https://img.shields.io/badge/Language-C-blue?style=for-the-badge)
-![Testing](https://img.shields.io/badge/Testing-GoogleTest%20%2B%20Valgrind-orange?style=for-the-badge)
+![Testing](https://img.shields.io/badge/Testing-%20%20Valgrind-orange?style=for-the-badge)
 
 ## 🎮 Introduction
 
@@ -10,7 +10,7 @@
 
 This project goes beyond the basics by implementing **Bonus Features** such as sprite animation, enemy logic, and an on-screen HUD.
 
-I achieved a score of **124/125**, demonstrating robust logic, clean code, and advanced error handling.
+I achieved a score of **125/100**, demonstrating robust logic, clean code, and advanced error handling.
 
 ---
 
